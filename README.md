@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @hypengw
-- 👀 I’m interested in c++/python/vulkan
-- 🌱 I’m currently learning rust/vue
 - 📫 How to reach me: [email](hypengwip@gmail.com), [blog](https://blog.bluempty.com)
 - 📢 Personal Telegram Channel: [t.me/blempty](https://t.me/blempty)
